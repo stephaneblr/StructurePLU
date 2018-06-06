@@ -48,6 +48,10 @@ img {
     max-width: 95%;
 }
 
+.txt:hover{
+    color: blue
+}
+
 @keyframes colorize {
     0% {
         -webkit-filter: grayscale(100%);
